@@ -1,4 +1,4 @@
-# freenas
+# FreeNAS
 
 VirtualBox 5.2  
 FreeNAS-11.1-U6.iso http://www.freenas.org/download/  
